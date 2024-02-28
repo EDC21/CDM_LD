@@ -1,0 +1,11 @@
+================================== Variables =========================================
+* ulocal - displacement
+*        - ulocal(1): Mode I displacement
+*        - ulocal(2): Mode II displacement
+* uI     - Mode I separation
+* uII    - Resultant Mode II displacement
+* u      - Mixed-mode disp.
+* u0     - Damage initiation displacement
+* umax   - u^f, displacement at failure
+* FI     - Normal tensile interface stress
+* FII    - Shear interface stress
